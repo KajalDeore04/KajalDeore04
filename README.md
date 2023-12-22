@@ -8,7 +8,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="www.linkedin.com/in/kajal-deore-93b6b427a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="40" width="50" /></a>
+<a href="www.linkedin.com/in/kajal-deore-93b6b427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@ProGrammer....." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmer....." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kajal42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kajal42" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kajaldeore04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajaldeore04" height="30" width="40" /></a>
