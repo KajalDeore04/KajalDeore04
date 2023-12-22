@@ -1,37 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kajal Deore</h1>
-<h3 align="center">A Computer Engineering Student</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ! ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="center">A Computer Engineering Student</h3
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" /></p>
 <p align="center">Technology has always been a passion of mine and I find great joy in learning about its various aspects. I have a good foundation in programming languages such as C, Java, HTML and CSS. Additionally, I have some good knowledge of cloud computing with GCP. 💻🌐.I am excited to continue expanding my knowledge and skills both in the field of technology and I can't wait to see where my passion takes me in the future! 🚀 </p>
