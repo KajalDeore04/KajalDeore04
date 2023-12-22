@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kajal Deore</h1>
 <h3 align="center">A Computer Engineering Student</h3
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" align="center /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" /></p>
 <p align="center">Technology has always been a passion of mine and I find great joy in learning about its various aspects. I have a good foundation in programming languages such as C, Java, HTML and CSS. Additionally, I have some good knowledge of cloud computing with GCP. 💻🌐.I am excited to continue expanding my knowledge and skills both in the field of technology and I can't wait to see where my passion takes me in the future! 🚀 <br> 
 - 🌱 I’m currently learning **Javascript** <br>
 - 📫 How to reach me **kajaldeore04@gmail.com** </p>
@@ -9,7 +9,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="40" width="50" /></a>
-<a href="https://www.youtube.com/c/@programmer....." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmer....." height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ProGrammer....." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmer....." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kajal42" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kajal42" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kajaldeore04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajaldeore04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kajalde3ei6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalde3ei6" height="30" width="40" /></a>
