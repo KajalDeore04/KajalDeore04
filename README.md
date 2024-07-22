@@ -1,5 +1,5 @@
 <p align='center'>
-    <img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Kajal%20Deore.gif' width='600' height='400' />
+    <img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Kajal%20Deore.gif'  />
 </p>
 <h1 align="center">Hi 👋, I'm Kajal Deore</h1>
 <h3 align="center">A Computer Engineering Student</h3>
