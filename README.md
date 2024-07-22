@@ -4,6 +4,13 @@
 </p>
 <img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
+</p>
+
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+
 **Looking for:**
 
 - Collaborative opportunities to contribute my skills and learn from talented individuals.
@@ -16,14 +23,6 @@
 **Let's Connect!**
 
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
-
-<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
-</p>
-
-<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
