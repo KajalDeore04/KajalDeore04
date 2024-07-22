@@ -24,6 +24,9 @@
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
 
 <p>
+    <a href="https://learn.microsoft.com/en-us/users/kajaldeore-3397/" target="blank">
+        <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMicrosoftIndia%2F&psig=AOvVaw3L8ds9Phg7yrt94V_IhF83&ust=1721746165175000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi1-LXyuocDFQAAAAAdAAAAABAE" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="50" width="50" />
+    </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="50" width="50" />
     </a>
