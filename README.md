@@ -15,7 +15,7 @@
 
 **Let's Connect!**
 
-I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [jaychaudhari31103@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
+I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
 
 <img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 
