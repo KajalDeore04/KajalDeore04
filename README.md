@@ -24,9 +24,6 @@
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
 
 <p>
-    <a href="https://learn.microsoft.com/en-us/users/kajaldeore-3397" target="blank">
-        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB4S_PLzShRNMQHMpKdvaC5CpoG3RBcR3dA&s" alt="https://learn.microsoft.com/en-us/users/kajaldeore-3397" height="50" width="50" />
-    </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="50" width="50" />
     </a>
@@ -38,6 +35,12 @@ I'm always open to connecting with other developers and exploring exciting oppor
     </a>
     <a href="https://auth.geeksforgeeks.org/user/kajalde3ei6" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalde3ei6" height="50" width="50" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/users/kajaldeore-3397" target="blank">
+        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB4S_PLzShRNMQHMpKdvaC5CpoG3RBcR3dA&s" alt="https://learn.microsoft.com/en-us/users/kajaldeore-3397" height="40" width="40" />
+    </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/50991794-0e94-409f-b02f-a5fa89e2cd68" target="blank">
+        <img align="center" src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" alt="https://www.cloudskillsboost.google/public_profiles/50991794-0e94-409f-b02f-a5fa89e2cd68" height="50" width="50" />
     </a>
 </p>
 
