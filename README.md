@@ -1,8 +1,6 @@
 <p align='center'>
     <img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Kajal%20Deore.gif'  />
 </p>
-<h1 align="center">Hi 👋, I'm Kajal Deore</h1>
-<h3 align="center">A Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" /> </p>
 
