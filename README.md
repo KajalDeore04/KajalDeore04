@@ -1,16 +1,37 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
-</p>
+
 <p align="center">
     <img alt="GIF" src="Kd.gif" />
 </p>
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+**Looking for:**
+
+- Collaborative opportunities to contribute my skills and learn from talented individuals.
+- Projects that utilize my technical expertise and allow me to further develop my knowledge.
+- A dynamic environment that fosters creativity and innovation.
+
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+
+**Let's Connect!**
+
+I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [jaychaudhari31103@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
+
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
+</p>
+
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=kajaldeore04" alt="kajaldeore04" />
     </a>
 </p>
-<h3 align="center">Connect with me:</h3>
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+<h3 >Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="30" width="40" />
@@ -26,7 +47,9 @@
     </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+<h3 >Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -59,11 +82,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
 </p>
-
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kajaldeore04&show_icons=true&locale=en&layout=compact" alt="kajaldeore04" />
 </p>
+<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
+
+## GitHub Stats
+
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajaldeore04&" alt="kajaldeore04" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=kajaldeore04&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact"/><br><br>
+    <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kajaldeore04&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajaldeore04&theme=radical" />
+  </a>
 </p>
