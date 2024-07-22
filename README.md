@@ -13,7 +13,6 @@
 </p>
 <p align="center">
 - 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **kajaldeore04@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
