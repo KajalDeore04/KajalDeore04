@@ -39,6 +39,9 @@ I'm always open to connecting with other developers and exploring exciting oppor
     <a href="https://learn.microsoft.com/en-us/users/kajaldeore-3397" target="blank">
         <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB4S_PLzShRNMQHMpKdvaC5CpoG3RBcR3dA&s" alt="https://learn.microsoft.com/en-us/users/kajaldeore-3397" height="40" width="40" />
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/50991794-0e94-409f-b02f-a5fa89e2cd68" target="blank">
+        <img align="center" src="https://github.com/KajalDeore04/KajalDeore04/blob/main/google-cloud.svg" alt="https://www.cloudskillsboost.google/public_profiles/50991794-0e94-409f-b02f-a5fa89e2cd68" height="50" width="50" />
+    </a>
 </p>
 
 
