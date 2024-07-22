@@ -23,18 +23,18 @@
 
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
 
-<p align="center">
+<p>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="50" width="50" />
     </a>
     <a href="https://www.codechef.com/users/kajal42" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kajal42" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kajal42" height="50" width="50" />
     </a>
     <a href="https://www.leetcode.com/kajaldeore04" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajaldeore04" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajaldeore04" height="50" width="50" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/kajalde3ei6" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalde3ei6" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalde3ei6" height="50" width="50" />
     </a>
 </p>
 
