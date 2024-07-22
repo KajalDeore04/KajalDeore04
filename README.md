@@ -2,7 +2,6 @@
 <p align="center">
     <img alt="GIF" src="Kd.gif" />
 </p>
-<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
