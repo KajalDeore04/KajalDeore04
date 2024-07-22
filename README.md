@@ -1,9 +1,8 @@
 <p align="center">
-    <img alt="GIF" src="Kd.gif" />
-</p>
-
-<p align="center">
     <img src="https://komarev.com/ghpvc/?username=kajaldeore04&label=Profile%20views&color=0e75b6&style=flat" alt="kajaldeore04" />
+</p>
+<p align="center">
+    <img alt="GIF" src="Kd.gif" />
 </p>
 
 <p align="center">
@@ -12,8 +11,10 @@
     </a>
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Javascript**
-- 📫 How to reach me **kajaldeore04@gmail.com**
+    
+        - 🌱 I’m currently learning **Javascript**
+    
+        - 📫 How to reach me **kajaldeore04@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
