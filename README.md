@@ -69,11 +69,6 @@ I'm always open to connecting with other developers and exploring exciting oppor
 ![](https://github-profile-trophy.vercel.app/?username=KajalDeore04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-
-
-<p align="center">
-
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img align="center" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajaldeore04&theme=radical" />
   </a>
-</p>
