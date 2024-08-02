@@ -68,23 +68,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KajalDeore04&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=KajalDeore04&icon=0&color=10)](https://visitcount.itsvg.in)
 
-
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kajaldeore04&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&locale=en&layout=compact" alt="kajaldeore04" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kajaldeore04&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&locale=en&layout=compact" alt="kajaldeore04" />
-</p>
-<img alt='GIF' src='https://github.com/KajalDeore04/KajalDeore04/blob/main/Line.gif' />
-
-
-**GitHub Stats**
 
 
 <p align="center">
