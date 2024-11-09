@@ -30,7 +30,7 @@ I'm always open to connecting with other developers and exploring exciting oppor
     <a href="https://www.leetcode.com/kajaldeore04" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajaldeore04" height="50" width="50" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/kajalde3ei6" target="blank">
+    <a href="https://auth.geeksforgeeks.org/user/kajaldeore" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kajalde3ei6" height="50" width="50" />
     </a>
     <a href="https://learn.microsoft.com/en-us/users/kajaldeore-3397" target="blank">
