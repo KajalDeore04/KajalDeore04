@@ -21,7 +21,7 @@
 I'm always open to connecting with other developers and exploring exciting opportunities. Feel free to reach out at [kajaldeore04@gmail.com](mailto:kajaldeore04@gmail.com), and let's chat! 😊
 
 <p>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
+    <a href="https://www.linkedin.com/in/kajal-deore-93b6b427a" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kajal-deore-93b6b427a" height="50" width="50" />
     </a>
     <a href="https://www.codechef.com/users/kajal42" target="blank">
